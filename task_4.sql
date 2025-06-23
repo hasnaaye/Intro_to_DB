@@ -10,4 +10,3 @@ FROM
 WHERE 
     TABLE_NAME = 'Books'
     AND TABLE_SCHEMA = DATABASE();
-
